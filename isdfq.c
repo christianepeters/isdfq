@@ -1,8 +1,6 @@
 /*
  *  author: 
- *    Christiane Peters, 
- *    c.p.peters@mat.dtu.dk
- *
+ *    Christiane Peters, http://christianepeters.wordpress.com
  * 
  *  date: 24-may-2010
  *
@@ -11,7 +9,7 @@
  *    Christiane Peters. Information-set decoding for linear codes over Fq. 
  *	  In: Post-Quantum Cryptography, Lecture Notes in Computer Science, Vol. 6061, 
  *        pp. 81--94. Springer, 2010.  
- *        http://www2.mat.dtu.dk/people/C.Peters/publications/2010.isdfq.pdf
+ *        http://eprint.iacr.org/2009/589
  *
  *	building on
  * 
@@ -19,7 +17,7 @@
  *    Attacking and defending the McEliece cryptosystem. 
  *	  In: Post-Quantum Cryptography, Lecture Notes in Computer Science, Vol. 5299, 
  *        pp. 31--46. Springer, 2008.  
- *        http://www2.mat.dtu.dk/people/C.Peters/publications/2008.mceliece.pdf
+ *        http://eprint.iacr.org/2008/318
  *
  *  this program uses the MPFI library
  *    See http://perso.ens-lyon.fr/nathalie.revol/mpfi.html
