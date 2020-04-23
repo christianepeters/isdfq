@@ -1,4 +1,4 @@
-\\ author: Christiane Peters, http://www.pqcrypto.org/users/christiane/
+\\ author: Christiane Peters, http://christianepeters.wordpress.com
 \\ October 2010
 \\ run as
 \\gp isdfq.gp
